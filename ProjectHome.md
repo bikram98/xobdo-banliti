@@ -1,0 +1,1 @@
+Create an Assamese Spell-Cheker "BanLiti" short for "Banan Litikai" (Assamese for Spelling Assistant)
